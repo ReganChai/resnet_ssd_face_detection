@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ObjectDetector", "ObjectDetector\ObjectDetector.pyproj", "{DED01365-C424-4ADB-BD13-2D067FF5F2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED01365-C424-4ADB-BD13-2D067FF5F2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED01365-C424-4ADB-BD13-2D067FF5F2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {178054FC-E81A-4450-9A61-7FC0B33861DF}
+	EndGlobalSection
+EndGlobal
