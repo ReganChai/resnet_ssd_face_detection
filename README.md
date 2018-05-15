@@ -7,6 +7,8 @@
     
 ## 流程
 
-- 加载模型
-    - .prototxt 为调用 .caffemodel 时的测试网络文件
-    - .caffemodel 为包含实际图层权重的模型文件
+- 加载模型    
+
+      - .prototxt 为调用 .caffemodel 时的测试网络文件    
+    
+      - .caffemodel 为包含实际图层权重的模型文件
